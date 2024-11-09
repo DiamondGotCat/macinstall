@@ -1,1 +1,8 @@
-
+{
+    "packages": [
+        {
+            "name": "xquartz",
+            "url": "https://github.com/XQuartz/XQuartz/releases/download/XQuartz-2.8.5/XQuartz-2.8.5.pkg"
+        }
+    ]
+}
